@@ -1,0 +1,20 @@
+﻿<metadata>
+	<!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+
+  <attr path="/api/package[@name='com.amazon.clouddrive.model']/class[@name='GetChangesResponse']/method[@name='getNodes']"  name="managedName">_getNodes</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.model']/class[@name='ListChildrenResponse']/method[@name='getData']"   name="managedName">_getData</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.model']/class[@name='ListNodesInTrashResponse']/method[@name='getData']"  name="managedName">_getData</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.model']/class[@name='ListNodesInResponse']/method[@name='getData']"  name="managedName">_getData</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.model']/class[@name='ListNodesResponse']/method[@name='getData']"  name="managedName">_getData</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.auth']/class[@name='AmazonApprovedCiphers']"  name="visibility">public</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.auth']/class[@name='AmazonAuthorizationConnectionFactory']"  name="visibility">public</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.auth']/class[@name='StrongCipherSSLSocketFactory']"  name="visibility">public</attr>
+  <attr path="/api/package[@name='com.amazon.clouddrive.auth']/class[@name='EnhancedSSLSocketFactory']"  name="visibility">public</attr>
+   
+</metadata>

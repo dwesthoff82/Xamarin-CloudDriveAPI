@@ -1,0 +1,7 @@
+/Users/dwesthoff/Projects/CloudDrive/CloudDriveAPI/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/dwesthoff/Projects/CloudDrive/CloudDriveAPI/obj/Debug/CloudDriveAPI.Jars.amazonclouddrive-1.0.0.jar
+/Users/dwesthoff/Projects/CloudDrive/CloudDriveAPI/bin/Debug/CloudDriveAPI.dll.mdb
+/Users/dwesthoff/Projects/CloudDrive/CloudDriveAPI/bin/Debug/CloudDriveAPI.dll
+/Users/dwesthoff/Projects/CloudDrive/CloudDriveAPI/obj/Debug/CloudDriveAPI.dll
+/Users/dwesthoff/Projects/CloudDrive/CloudDriveAPI/obj/Debug/CloudDriveAPI.dll.mdb
+/Users/dwesthoff/Projects/CloudDrive/CloudDriveAPI/obj/Debug/CloudDriveAPI.obj.Debug.__AndroidNativeLibraries__.zip
